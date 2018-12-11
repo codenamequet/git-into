@@ -1,1 +1,1 @@
-console.log('Morty 🤮 lets fly to another galaxy and do something crazy 🥴’)
+console.log('It looks like we should go get ready’)
